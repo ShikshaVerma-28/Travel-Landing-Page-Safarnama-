@@ -1,20 +1,23 @@
-# Safarnama - Travel Landing Page
+# 🌍 Safarnama - Travel Landing Page
 
-A responsive travel landing page built using HTML.
+A modern, responsive travel landing page designed for wanderlust-driven experiences.
 
-## Features
-* Modern and clean design.
-* Fully responsive layout.
-* Intuitive user interface for travel enthusiasts.
+![Project Preview](Screenshot%202026-06-14%20095539.png)
 
-## Demo
-View the live project here: [travel-landing-page-safarnama.vercel.app](https://travel-landing-page-safarnama.vercel.app)
+## ✨ Features
+* **Modern & Clean Design:** Aesthetic interface tailored for travel enthusiasts.
+* **Fully Responsive Layout:** Ensures a seamless, pixel-perfect experience across mobile, tablet, and desktop devices.
+* **Intuitive UI:** User-centric design focused on ease of navigation and engagement.
 
-## Tech Stack
-* HTML
-* CSS
+## 🚀 Live Demo
+Experience the project live here: [travel-landing-page-safarnama.vercel.app](https://travel-landing-page-safarnama.vercel.app)
 
-## Installation
-1. Clone the repository:
+## 🛠️ Tech Stack
+* **Markup:** HTML5
+* **Styling:** CSS3
+
+## 📦 Quick Start
+
+1. **Clone the repository:**
    ```bash
    git clone [https://github.com/ShikshaVerma-28/Travel-Landing-Page-Safarnama-.git](https://github.com/ShikshaVerma-28/Travel-Landing-Page-Safarnama-.git)
