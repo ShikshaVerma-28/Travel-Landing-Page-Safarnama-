@@ -21,3 +21,12 @@ Experience the project live here: [travel-landing-page-safarnama.vercel.app](htt
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/ShikshaVerma-28/Travel-Landing-Page-Safarnama-.git](https://github.com/ShikshaVerma-28/Travel-Landing-Page-Safarnama-.git)
+   ```
+
+2. **Navigate to the directory:**
+   ```bash
+   cd Travel-Landing-Page-Safarnama-
+   ```
+   
+3. **Run the project:**
+   Open index.html directly in your browser.
